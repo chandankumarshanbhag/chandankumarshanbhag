@@ -4,6 +4,8 @@ Thanks for stopping by !
 <br />
 If you like my work, show some support.
 
+<br />
+Follow me on
 <a href="https://www.linkedin.com/in/chandankumarshanbhag/">
   <img align="left" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
