@@ -5,7 +5,6 @@ Thanks for stopping by !
 If you like my work, show some support.
 
 <br />
-<p>Technologies i love ❤️</p>
 <img align="left" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg">
 <img align="left" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg">
 <img align="left" width="22" src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/dev/react.svg">
